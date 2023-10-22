@@ -1,0 +1,36 @@
+Product: Microsoft Office 365 ProPlus with Activation
+-----------------------------------------------------
+
+Installation & Activation Steps:
+--------------------------------
+
+Note: The provided setup is an online isntaller. Make sure you are connected to the good internet before you start this process.
+
+Installation Steps:
+-------------------
+1. Run as administrator "Microsoft Office Setup"
+
+2. Installation process with take around 5-10 minutes if you have a good internet speed
+
+3. Product is installed but its not activated yet.
+
+
+Activation Steps:
+-----------------
+1) Run the MAS_AIO with administrator permission and click 3 2 times to activate windows for 180 days 
+
+2) Save this and you can activate it after every 180 days
+
+
+_______________________________________
+Visit Below Links For More Information:
+_______________________________________
+
+GitHub: https://github.com/2002-IFHAM/Office-365-activation
+__________________________
+Follow me on Social Media:
+***************************
+
+GitHub: https://github.com/2002-IFHAM
+
+
